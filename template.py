@@ -22,7 +22,8 @@ list_of_files = [
     "config/config.yaml",
     "params.yaml",
     "requirements.txt",
-    "research/trials.ipynb"
+    "research/trials.ipynb",
+    "setup.py"
 ]
 
 # file and directory creations
