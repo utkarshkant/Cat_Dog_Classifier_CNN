@@ -1,0 +1,1 @@
+from CAT_DOG_CLASSIFIER_CNN.entity.config_entity import DataIngestionConfig
